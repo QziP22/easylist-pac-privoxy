@@ -12,13 +12,13 @@
 			<string>Global HTTP Proxy</string>
 
 			<key>PayloadIdentifier</key>
-			<string>com.apple.proxy.http.global.e588e54c-47da-11eb-b378-0242ac130002</string>
+			<string>com.apple.proxy.http.global.08b9827a-e230-11eb-ba80-0242ac130004</string>
 
 			<key>PayloadType</key>
 			<string>com.apple.proxy.http.global</string>
 
 			<key>PayloadUUID</key>
-			<string>e588e54c-47da-11eb-b378-0242ac130002</string>
+			<string>08b9827a-e230-11eb-ba80-0242ac130004</string>
 
 			<key>PayloadVersion</key>
 			<integer>1</integer>
@@ -38,10 +38,10 @@
 	</array>
 
 	<key>PayloadDisplayName</key>
-	<string>MARTIN_BLOCK</string>
+	<string>BITCH_PAC</string>
 	
 	<key>PayloadIdentifier</key>
-	<string>your.adblock.martin.list.e588e7c2-47da-11eb-b378-0242ac130002</string>
+	<string>my.adblock.proxy.BITCH_PAC.08b984a0-e230-11eb-ba80-0242ac130004</string>
 	
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
@@ -50,7 +50,8 @@
 	<string>Configuration</string>
 
 	<key>PayloadUUID</key>
-	<string>e588e9e8-47da-11eb-b378-0242ac130002</string>
+	<!-- REPLACE GENERATED_UUID_03 -->
+	<string>08b98590-e230-11eb-ba80-0242ac130004</string>
 
 	<key>PayloadVersion</key>
 	<integer>1</integer>
