@@ -50,7 +50,6 @@
 	<string>Configuration</string>
 
 	<key>PayloadUUID</key>
-	<!-- REPLACE GENERATED_UUID_03 -->
 	<string>08b98590-e230-11eb-ba80-0242ac130004</string>
 
 	<key>PayloadVersion</key>
